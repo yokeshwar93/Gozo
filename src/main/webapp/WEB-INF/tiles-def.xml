@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+<tiles-definitions>
+
+	
+
+	<definition name="home"  template="pages/index.jsp" ></definition>
+	<definition name="ar"  template="pages/ar.jsp" ></definition>
+	<definition name="vr"  template="pages/vr.jsp" ></definition>
+	<definition name="pmtable"  template="pages/pmtable.jsp" ></definition>
+	<definition name="pmroom"  template="pages/pmroom.jsp" ></definition>
+	<definition name="hdr"  template="pages/hdr.jsp" ></definition>
+<definition name="escaperooms"  template="pages/escaperooms.jsp" ></definition>
+
+
+</tiles-definitions>
